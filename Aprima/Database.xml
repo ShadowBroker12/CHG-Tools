@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root
+    EnableHighDPISupport="False">
+    <configuration
+        section="1791fcf9-f608-4a5e-b203-86667412f722"
+        externalid=""
+        name="Careline New Hosting"
+        applicationserver="app.ehrmedbilling.com"
+        applicationserverport="3025"
+        sqlserver="AG1"
+        serverdatabase="clhg"
+        inactive="false"
+        notes=""
+        localdatabase=""
+        local="false"
+        applicationlocalport="2520"
+        localAppServer=""
+        localDBServer="" />
+</root>
